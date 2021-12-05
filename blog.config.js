@@ -9,17 +9,17 @@
 const BLOG = {
   title: 'Dsuper',
   author: 'Dsuper',
-  email: 'example@test',
-  link: 'https://dsuper.vercel.app',
-  description: 'This gonna be an awesome website.',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  email: 'dsuper@protonmail.com',
+  link: 'https://dsuper.cf',
+  description: '此处故意留白',
+  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 10,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
