@@ -40,7 +40,7 @@ const BLOG = {
       domainId: '' // e.g '0e2257a8-54d4-4847-91a1-0311ea48cc7b'
     },
     gaConfig: {
-      measurementId: 'G-JQTQ6XHY59' // e.g: G-XXXXXXXXXX
+      measurementId: 'G-6F4DCL1FD9' // e.g: G-XXXXXXXXXX
     }
   },
   comment: {
