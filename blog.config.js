@@ -10,7 +10,7 @@ const BLOG = {
   title: 'D_SUPER',
   author: 'D_super',
   email: 'd_super@protonmail.com',
-  link: 'https://dsuper.eu.org',
+  link: 'https://dsuper.cf',
   description: '得不到的永远在骚动，被偏爱的都有恃无恐',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
